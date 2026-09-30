@@ -1,0 +1,36 @@
+asset_tag,serial_number,model,model_category,asset_state,substate,assigned_to,location,ci_name,ci_status,warranty_expiration,last_discovered
+P1001,5CG1234ABC,Dell Latitude 5440,Computer,In use,,Sarah Martin,Paris HQ,LT-1001,Installed,2027-03-15,2026-09-28
+P1002,5CG1234ABD,Dell Latitude 5440,Computer,In use,,Karim Haddad,Paris HQ,LT-1002,Installed,2027-03-15,2026-09-29
+P1003,C02XK1ABJG5H,Apple MacBook Pro 14 M3,Computer,In use,,Julie Bernard,Lyon Office,LT-1003,Installed,2027-11-01,2026-09-27
+P1004,PF3KX9ZT,Lenovo ThinkPad T14 Gen 4,Computer,In use,,Thomas Petit,Remote,LT-1004,Installed,2027-06-30,2026-09-25
+P1005,5CG1234ABF,Dell Latitude 5440,Computer,In stock,Available,,Paris HQ Stockroom,LT-1005,In Stock,2027-03-15,
+P1006,5CG1234ABG,Dell Latitude 5440,Computer,In stock,Available,,Paris HQ Stockroom,LT-1006,In Stock,2027-03-15,
+P1007,,Dell Latitude 5440,Computer,In use,,Nadia Lefebvre,Lyon Office,LT-1007,Installed,2027-03-15,2026-09-26
+P1008,CZC4411XYZ,HP ProLiant DL380 Gen11,Server,In use,,,Paris Datacenter,SRV-DB-01,Installed,2028-01-31,2026-09-29
+P1009,CZC4411XZA,HP ProLiant DL380 Gen11,Server,In use,,,Paris Datacenter,SRV-APP-01,Installed,2028-01-31,2026-09-29
+P1010,5CG0987QWE,Dell Latitude 5420,Computer,Retired,Disposed,,Paris HQ,LT-1010,Installed,2024-05-10,2026-09-28
+P1011,C02XK1ABJG6J,Apple MacBook Pro 14 M3,Computer,In use,,Lucas Moreau,Remote,LT-1011,Installed,2027-11-01,2026-09-24
+P1012,PF3KX9ZU,Lenovo ThinkPad T14 Gen 4,Computer,In use,,,Lyon Office,LT-1012,Installed,2027-06-30,2026-09-23
+P1013,CN-0ABC12,Dell U2723QE,Monitor,In use,,Sarah Martin,Paris HQ,,,2028-02-28,
+P1014,5CG1234ABH,Dell Latitude 5440,Computer,In stock,Available,Emma Laurent,Paris HQ Stockroom,LT-1014,In Stock,2027-03-15,
+P1015,C02XK1ABJG7K,Apple MacBook Pro 14 M3,Computer,In use,,Hugo Girard,Paris HQ,LT-1015,Installed,2027-11-01,2026-09-29
+P1016,PF3KX9ZV,Lenovo ThinkPad T14 Gen 4,Computer,In use,,Chloe Roux,Lyon Office,,,2027-06-30,
+P1017,CN-0ABC13,Dell U2723QE,Monitor,In stock,Available,,Paris HQ Stockroom,,,2028-02-28,
+P1018,5CG0987QWF,Dell Latitude 5420,Computer,In use,,Antoine Fournier,Remote,LT-1018,Installed,2025-05-10,2026-03-02
+P1019,PF3KX9ZT,Lenovo ThinkPad T14 Gen 4,Computer,In use,,Ines Mercier,Paris HQ,LT-1019,Installed,2027-06-30,2026-09-27
+P1020,5CG1234ABJ,Dell Latitude 5440,Computer,In use,,Maxime Blanc,Paris HQ,LT-1020,Installed,2027-03-15,2026-09-28
+P1021,5CG0987QWG,Dell Latitude 5420,Computer,In use,,Camille Garnier,Lyon Office,LT-1021,Installed,2025-06-30,2026-09-26
+P1022,C02XK1ABJG8L,Apple MacBook Pro 14 M3,Computer,In use,,Leo Chevalier,Remote,LT-1022,Installed,2027-11-01,2026-09-22
+P1023,5CG1234ABK,DELL LAT 5440,Computer,In use,,Manon Francois,Paris HQ,LT-1023,Installed,2027-03-15,2026-09-29
+P1024,CZC4411XZB,HP ProLiant DL380 Gen11,Server,In maintenance,,,Paris Datacenter,SRV-APP-02,In Maintenance,2028-01-31,2026-09-20
+P1025,5CG1234ABL,Latitude 5440 Laptop,Computer,In use,,Paul Lambert,Lyon Office,LT-1025,Installed,2027-03-15,2026-09-27
+P1026,C02XK1ABJG9M,Apple MacBook Pro 14 M3,Computer,In stock,Available,,Lyon Office Stockroom,LT-1026,In Stock,2027-11-01,
+P1027,PF3KX9ZW,Lenovo ThinkPad T14 Gen 4,Computer,In use,,Zoe Bonnet,,LT-1027,Installed,2027-06-30,2026-09-25
+P1028,5CG1234ABM,Dell Latitude 5440,Computer,In use,,Arthur Dupuis,Paris HQ,LT-1028,Installed,2027-03-15,2026-09-28
+,5CG1234ABN,Dell Latitude 5440,Computer,In use,,Louise Henry,Paris HQ,LT-1029,Installed,2027-03-15,2026-09-29
+P1030,5CG1234ABP,Dell Latitude 5440,Computer,In use,,Gabriel Roussel,Lyon Office,LT-1002,Installed,2027-03-15,2026-09-26
+P1031,C02XK1ABJH0N,Apple MacBook Pro 14 M3,Computer,In use,,Alice Perrin,Paris HQ,LT-1031,Installed,2027-11-01,2026-09-28
+P1032,5CG0987QWH,Dell Latitude 5420,Computer,Missing,,,Paris HQ,LT-1032,Absent,2025-05-10,2026-09-29
+P1033,PF3KX9ZX,Lenovo ThinkPad T14 Gen 4,Computer,In use,,Jules Morel,Remote,LT-1033,Installed,2027-06-30,2026-09-21
+P1034,5CG0987QWJ,Dell Latitude 5420,Computer,Retired,Disposed,Victor Andre,Paris HQ,LT-1034,Retired,2024-05-10,
+P1035,C02XK1ABJH1P,Apple MacBook Pro 14 M3,Computer,In use,,Sofia Faure,Lyon Office,LT-1035,Installed,2027-11-01,2026-09-29
