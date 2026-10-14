@@ -16,6 +16,7 @@ solutions at work.
 | `03-data/` | Sample exports with deliberate data-quality problems to analyze |
 | `04-scripts/` | Script exercises to run in a **Personal Developer Instance (PDI)** |
 | `05-case-studies/` | Realistic scenarios: I write my answer, then get it reviewed |
+| `06-itsm/` | ITSM (Incident / Problem / Change) guides, e.g. the [documentation roadmap](06-itsm/documentation-roadmap.md) |
 | `solutions/` | Answer keys: **try first, look after** |
 | `journal/` | Short dated notes: what I learned, what confused me |
 
